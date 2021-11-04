@@ -2,9 +2,9 @@
   <section class="container">
     <div>
       <app-logo/>
-      <h1 class="title">
-        work-vue-nuxt
-      </h1>
+      <h2 class="title">
+        Suteera Sunakorn
+      </h2>
       <h2 class="subtitle">
         Nuxt.js project
       </h2>
